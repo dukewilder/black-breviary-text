@@ -16,6 +16,7 @@ This repository holds the complete text, dedicated to the public domain under CC
 ## Elsewhere
 
 - The daily web app, with the pact, the public Record and the thirteen Orders: https://blackbreviary.app
+- Index of the site for language models and crawlers: https://blackbreviary.app/llms.txt
 - The full PDF with every plate at print resolution, at the Internet Archive: https://archive.org/details/the-black-breviary
 - Open Library: https://openlibrary.org/books/OL62703781M
 - Paperback and hardcover: https://www.amazon.com/dp/B0HPC1W5FB

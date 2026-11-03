@@ -10,11 +10,12 @@ This repository holds the complete text, dedicated to the public domain under CC
 
 - [`The-Black-Breviary.txt`](The-Black-Breviary.txt): the full text of the print book in reading order (about 217,000 words): the front matter, all 365 days, the feasts, the rites for every faith and the sources. Footnotes are shown as [1]; there are no page numbers.
 - [`days/`](days/): each of the 365 days as its own Markdown file, from `day-001.md` (Of Waking) to `day-365.md` (Of the Stars). Days 1 to 121 are Book I, Burden; days 122 to 243 are Book II, Refusal; days 244 to 365 are Book III, Assent.
+- [`plates/`](plates/) and [`PLATES.md`](PLATES.md): the 399 engravings at 800 px, with title, artist, source and the day each one opens. Each day file shows its plate under the heading.
 
 ## Elsewhere
 
 - The daily web app, with the pact, the public Record and the thirteen Orders: https://blackbreviary.app
-- The full PDF with every plate, at the Internet Archive: https://archive.org/details/the-black-breviary
+- The full PDF with every plate at print resolution, at the Internet Archive: https://archive.org/details/the-black-breviary
 - Open Library: https://openlibrary.org/books/OL62703781M
 - Paperback and hardcover: https://www.amazon.com/dp/B0HPC1W5FB
 
